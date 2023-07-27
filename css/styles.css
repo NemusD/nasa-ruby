@@ -1,0 +1,21 @@
+/*body*/
+body {
+    background-color: black;
+    text-align: center;
+    justify-content: center;
+}
+/*ul*/
+ul {
+    list-style: none;
+    padding: 0;
+}
+/*li*/
+li {
+    display: inline-block;
+    margin: 10px;
+}
+/*img*/
+img {
+    width: 200px;
+    height: 200px;
+}
